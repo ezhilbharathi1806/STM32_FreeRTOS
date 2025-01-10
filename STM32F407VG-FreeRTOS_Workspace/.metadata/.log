@@ -1,0 +1,136 @@
+!SESSION 2025-01-09 21:00:26.228 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-01-09 21:00:47.079
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-01-09 21:00:47.084
+!MESSAGE Log4j2 initialized with config file G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-01-09 21:01:07.036
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-01-09 22:14:59.151
+!MESSAGE Indexed '001_Task_Creation' (19 sources, 81 headers) in 24.5 sec: 4,419 declarations; 17,800 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.009%)
+!SESSION 2025-01-10 16:41:14.299 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-01-10 17:08:30.508
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-01-10 17:08:30.532
+!MESSAGE Log4j2 initialized with config file G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-01-10 17:09:14.508
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-01-10 17:20:36.284
+!MESSAGE Indexed '01_Task_Creation' (30 sources, 105 headers) in 8.11 sec: 7,393 declarations; 31,012 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0052%)
+
+!ENTRY org.eclipse.core.resources 4 77 2025-01-10 17:23:13.503
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2025-01-10 17:23:13.503
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2025-01-10 17:23:13.504
+!MESSAGE G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace\001_Task_Creation overlaps the location of another project: '01_Task_Creation'
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:13.564
+!MESSAGE Project is required
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:13.566
+!MESSAGE Project is required
+
+!ENTRY org.eclipse.core.resources 4 77 2025-01-10 17:23:22.513
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2025-01-10 17:23:22.513
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2025-01-10 17:23:22.513
+!MESSAGE G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace\001_Task_Creation overlaps the location of another project: '01_Task_Creation'
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:22.521
+!MESSAGE Project is required
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:22.523
+!MESSAGE Project is required
+
+!ENTRY org.eclipse.core.resources 4 77 2025-01-10 17:23:28.200
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2025-01-10 17:23:28.201
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2025-01-10 17:23:28.201
+!MESSAGE G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace\001_Task_Creation overlaps the location of another project: '01_Task_Creation'
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:28.206
+!MESSAGE Project is required
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:28.208
+!MESSAGE Project is required
+
+!ENTRY org.eclipse.core.resources 4 77 2025-01-10 17:23:29.682
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2025-01-10 17:23:29.682
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2025-01-10 17:23:29.683
+!MESSAGE G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace\001_Task_Creation overlaps the location of another project: '01_Task_Creation'
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:29.684
+!MESSAGE Project is required
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:29.688
+!MESSAGE Project is required
+
+!ENTRY org.eclipse.core.resources 4 77 2025-01-10 17:23:30.830
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2025-01-10 17:23:30.830
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2025-01-10 17:23:30.831
+!MESSAGE G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace\001_Task_Creation overlaps the location of another project: '01_Task_Creation'
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:30.832
+!MESSAGE Project is required
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:30.835
+!MESSAGE Project is required
+
+!ENTRY org.eclipse.help.base 2 0 2025-01-10 17:23:46.488
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.cdt.doc.user_11.4.0.202309142347 [184]'. The index should be rebuilt with Lucene 9.8.0
+
+!ENTRY org.eclipse.core.resources 4 77 2025-01-10 17:23:49.988
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2025-01-10 17:23:49.988
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2025-01-10 17:23:49.988
+!MESSAGE G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace\001_Task_Creation overlaps the location of another project: '01_Task_Creation'
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:49.990
+!MESSAGE Project is required
+
+!ENTRY com.st.stm32cube.ide.common.services 4 0 2025-01-10 17:23:49.991
+!MESSAGE Project is required
+
+!ENTRY org.eclipse.core.jobs 4 2 2025-01-10 17:26:19.640
+!MESSAGE An internal error occurred during: "project build settings update job".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.cdt.core.settings.model.ICProjectDescription.getConfigurations()" because "projDes" is null
+	at org.eclipse.cdt.managedbuilder.internal.core.BuildSettingsUtil.synchBuildInfo(BuildSettingsUtil.java:173)
+	at org.eclipse.cdt.managedbuilder.core.ManagedBuildManager.updateBuildInfo(ManagedBuildManager.java:1252)
+	at org.eclipse.cdt.managedbuilder.core.ManagedBuildManager.updateCoreSettings(ManagedBuildManager.java:1388)
+	at org.eclipse.cdt.managedbuilder.core.ResourceChangeHandler2$1.run(ResourceChangeHandler2.java:202)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-01-10 17:26:42.270
+!MESSAGE Indexed '001_Task_Creation' (3 sources, 53 headers) in 1.58 sec: 1,950 declarations; 2,836 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-01-10 17:34:39.405
+!MESSAGE Indexed '001_Task_Creation' (3 sources, 53 headers) in 2.42 sec: 1,950 declarations; 2,836 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-01-10 17:36:35.375
+!MESSAGE Indexed '001_Task_Creation' (3 sources, 53 headers) in 2.16 sec: 1,950 declarations; 2,836 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)

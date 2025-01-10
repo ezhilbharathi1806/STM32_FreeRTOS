@@ -1,0 +1,35 @@
+23:24:14 **** Incremental Build of configuration Debug for project 001_Task_Creation ****
+make -j4 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F407VGTx -DSTM32F407G_DISC1 -c -I../Inc -I"G:/Embedded/STM32_FreeRTOS/Chip_headers/CMSIS/Include" -I"G:/Embedded/STM32_FreeRTOS/Chip_headers/CMSIS/Device/ST/STM32F4xx/Include" -I"G:/Embedded/STM32_FreeRTOS/STM32F407VG-FreeRTOS_Workspace/001_Task_Creation/FreeRTOS/Source/include" -I"G:/Embedded/STM32_FreeRTOS/STM32F407VG-FreeRTOS_Workspace/001_Task_Creation/FreeRTOS/Source/portable/GCC/ARM_CM4F" -I"G:/Embedded/STM32_FreeRTOS/STM32F407VG-FreeRTOS_Workspace/001_Task_Creation/FreeRTOS/Source/portable/MemMang" -I"G:/Embedded/STM32_FreeRTOS/STM32F407VG-FreeRTOS_Workspace/001_Task_Creation/FreeRTOS" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/main.o"
+arm-none-eabi-gcc -o "001_Task_Creation.elf" @"objects.list"   -mcpu=cortex-m4 -T"G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace\001_Task_Creation\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="001_Task_Creation.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 001_Task_Creation.elf
+ 
+arm-none-eabi-size  001_Task_Creation.elf 
+arm-none-eabi-objdump -h -S 001_Task_Creation.elf  > "001_Task_Creation.list"
+   text	   data	    bss	    dec	    hex	filename
+   9628	      8	   9088	  18724	   4924	001_Task_Creation.elf
+Finished building: default.size.stdout
+ 
+Finished building: 001_Task_Creation.list
+ 
+23:26:03 **** Incremental Build of configuration Debug for project 001_Task_Creation ****
+make -j4 all 
+arm-none-eabi-size  001_Task_Creation.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9628	      8	   9088	  18724	   4924	001_Task_Creation.elf
+Finished building: default.size.stdout
+ 
+23:27:38 **** Incremental Build of configuration Debug for project 001_Task_Creation ****
+make -j4 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F407VGTx -DSTM32F407G_DISC1 -c -I../Inc -I"G:/Embedded/STM32_FreeRTOS/Chip_headers/CMSIS/Include" -I"G:/Embedded/STM32_FreeRTOS/Chip_headers/CMSIS/Device/ST/STM32F4xx/Include" -I"G:/Embedded/STM32_FreeRTOS/STM32F407VG-FreeRTOS_Workspace/001_Task_Creation/FreeRTOS/Source/include" -I"G:/Embedded/STM32_FreeRTOS/STM32F407VG-FreeRTOS_Workspace/001_Task_Creation/FreeRTOS/Source/portable/GCC/ARM_CM4F" -I"G:/Embedded/STM32_FreeRTOS/STM32F407VG-FreeRTOS_Workspace/001_Task_Creation/FreeRTOS/Source/portable/MemMang" -I"G:/Embedded/STM32_FreeRTOS/STM32F407VG-FreeRTOS_Workspace/001_Task_Creation/FreeRTOS" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/main.o"
+arm-none-eabi-gcc -o "001_Task_Creation.elf" @"objects.list"   -mcpu=cortex-m4 -T"G:\Embedded\STM32_FreeRTOS\STM32F407VG-FreeRTOS_Workspace\001_Task_Creation\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="001_Task_Creation.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 001_Task_Creation.elf
+ 
+arm-none-eabi-size  001_Task_Creation.elf 
+arm-none-eabi-objdump -h -S 001_Task_Creation.elf  > "001_Task_Creation.list"
+   text	   data	    bss	    dec	    hex	filename
+   9652	      8	   9088	  18748	   493c	001_Task_Creation.elf
+Finished building: default.size.stdout
+ 
+Finished building: 001_Task_Creation.list
+ 

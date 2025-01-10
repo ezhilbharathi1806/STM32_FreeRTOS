@@ -1,0 +1,9 @@
+#include <stdint.h>
+#include "FreeRTOS.h"
+#include "task.h"
+
+int main(void)
+{
+    /* Loop forever */
+	for(;;);
+}
